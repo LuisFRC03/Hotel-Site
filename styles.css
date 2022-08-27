@@ -176,6 +176,10 @@ body{
     object-fit: cover;
 }
 
+.figure-quartos {
+    display: flex;
+    flex-direction: column;
+}
 
 /*----------Serviços-----------*/
 .container-servicos {
